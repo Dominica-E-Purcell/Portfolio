@@ -65,3 +65,17 @@
     background-color: var(--wine-dark-sea);
   }
   
+
+  @media screen and (max-width: 800px) {
+    header, footer {
+    color:var(--pomegranet);
+    background-color: var(--dread);
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    body {
+    color:var(--kore);
+    background-color: var(--persephone-);
+    }
+  }
