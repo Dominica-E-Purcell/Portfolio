@@ -36,7 +36,7 @@
     background-color: var(--wine-dark-sea);
   }
 
-  .header a hover {
+  .header a:hover {
     color: var(--amethyst-gaze);
     background-color: var(--open-sky);
   }
