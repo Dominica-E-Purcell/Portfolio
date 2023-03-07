@@ -15,4 +15,30 @@
     color: var(--amethyst-gaze);
     background-color: var(--wine-dark-sea);
   }
+  img {
+    width: 25%;
+    height: auto;
+  }
 
+  .header.h1{
+    font-size: 60px;
+    float: none;
+  }
+
+  .header.h2{
+    font-size: 40px;
+    float: none;
+  }
+
+  h1,
+  h2 {
+    color: var(--lilac-kiss);
+    background-color: var(--wine-dark-sea);
+  }
+
+  .header a hover {
+    color: var(--amethyst-gaze);
+    background-color: var(--open-sky);
+  }
+
+  
